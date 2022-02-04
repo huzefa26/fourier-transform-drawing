@@ -42,15 +42,15 @@ function epicycles(fourier, x, y, rotation){
 function draw() {
     background(0);
 
-    // text
-    textSize(20);
-    stroke(0);
-    fill(255);
-    text('This is a fourier transformation for a wave which looks like this.', 20, 60);
-    textSize(25);
-    fill(200, 110, 130);
-    text('Just some quarantine stuff!', 20, 100);
-    // fill()
+//     // text
+//     textSize(20);
+//     stroke(0);
+//     fill(255);
+//     text('This is a fourier transformation for a wave which looks like this.', 20, 60);
+//     textSize(25);
+//     fill(200, 110, 130);
+//     text('Just some quarantine stuff!', 20, 100);
+//     // fill()
 
     let x=0, y=0;
 
